@@ -1,0 +1,7 @@
+.Logo {
+}
+.Logo img {
+  object-fit: contain;
+  height: 50px;
+  margin-left: 20px;
+}
